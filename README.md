@@ -1,2 +1,2 @@
 # genius
-Bootcamp Digital Innovation One. Criando jogo da memória estilo Genius. O objetivo é repetir sequência de cores.
+Bootcamp Digital Innovation One. Criando jogo da memória estilo Genius. O objetivo é repetir sequência de cores aleatória, onde o usuário vai clicar nas cores sequenciadas, exibindo mensagem de acertos, evoluindo para o próximo nível e mensagem de erros quando não clicar na cor correspondente e iniciar novo jogo se desejar. Utilizando HTML5, CSS Grid e JavaScript com manipulação de Arrays e Arrow Function.
